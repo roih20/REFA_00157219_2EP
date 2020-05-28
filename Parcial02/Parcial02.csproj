@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{6B819735-8C9B-4668-9CFB-76FC19EEA9D1}</ProjectGuid>
+        <OutputType>WinExe</OutputType>
+        <RootNamespace>Parcial02</RootNamespace>
+        <AssemblyName>Parcial02</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+        <Deterministic>true</Deterministic>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="mscorlib" />
+        <Reference Include="Npgsql, Version=4.1.3.1, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7">
+          <HintPath>..\packages\Npgsql.4.1.3.1\lib\net461\Npgsql.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="Parcial02, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <HintPath>bin\Debug\Parcial02.exe</HintPath>
+        </Reference>
+        <Reference Include="System" />
+        <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.Buffers.4.5.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Core" />
+        <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Numerics" />
+        <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+          <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+          <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.6.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Text.Encodings.Web, Version=4.0.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.Text.Encodings.Web.4.6.0\lib\netstandard2.0\System.Text.Encodings.Web.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Text.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.Text.Json.4.6.0\lib\net461\System.Text.Json.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.3\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Xml.Linq" />
+        <Reference Include="System.Data.DataSetExtensions" />
+        <Reference Include="Microsoft.CSharp" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Deployment" />
+        <Reference Include="System.Drawing" />
+        <Reference Include="System.Net.Http" />
+        <Reference Include="System.Windows.Forms" />
+        <Reference Include="System.Xml" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Addnegocio.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Addnegocio.Designer.cs">
+          <DependentUpon>Addnegocio.cs</DependentUpon>
+        </Compile>
+        <Compile Include="AddProducto.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="AddProducto.Designer.cs">
+          <DependentUpon>AddProducto.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Adress.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Adress.Designer.cs">
+          <DependentUpon>Adress.cs</DependentUpon>
+        </Compile>
+        <Compile Include="AgregarUser.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="AgregarUser.Designer.cs">
+          <DependentUpon>AgregarUser.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Conexion.cs" />
+        <Compile Include="DeleteNegocio.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="DeleteNegocio.Designer.cs">
+          <DependentUpon>DeleteNegocio.cs</DependentUpon>
+        </Compile>
+        <Compile Include="DeleteUser.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="DeleteUser.Designer.cs">
+          <DependentUpon>DeleteUser.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Form1.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Form1.Designer.cs">
+            <DependentUpon>Form1.cs</DependentUpon>
+        </Compile>
+        <Compile Include="frmAdministrador.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="frmAdministrador.Designer.cs">
+          <DependentUpon>frmAdministrador.cs</DependentUpon>
+        </Compile>
+        <Compile Include="frmAdminUser.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="frmAdminUser.Designer.cs">
+          <DependentUpon>frmAdminUser.cs</DependentUpon>
+        </Compile>
+        <Compile Include="frmContraseña.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="frmContraseña.Designer.cs">
+          <DependentUpon>frmContraseña.cs</DependentUpon>
+        </Compile>
+        <Compile Include="frmDireccion.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="frmDireccion.Designer.cs">
+          <DependentUpon>frmDireccion.cs</DependentUpon>
+        </Compile>
+        <Compile Include="frmNegocio.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="frmNegocio.Designer.cs">
+          <DependentUpon>frmNegocio.cs</DependentUpon>
+        </Compile>
+        <Compile Include="frmProducto.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="frmProducto.Designer.cs">
+          <DependentUpon>frmProducto.cs</DependentUpon>
+        </Compile>
+        <Compile Include="frmRegistro.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="frmRegistro.Designer.cs">
+          <DependentUpon>frmRegistro.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Login.cs" />
+        <Compile Include="Program.cs" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Usuario.cs" />
+        <Compile Include="UsuarioBD.cs" />
+        <EmbeddedResource Include="Addnegocio.resx">
+          <DependentUpon>Addnegocio.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="AddProducto.resx">
+          <DependentUpon>AddProducto.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Adress.resx">
+          <DependentUpon>Adress.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="AgregarUser.resx">
+          <DependentUpon>AgregarUser.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="DeleteNegocio.resx">
+          <DependentUpon>DeleteNegocio.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="DeleteUser.resx">
+          <DependentUpon>DeleteUser.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Form1.resx">
+          <DependentUpon>Form1.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="frmAdministrador.resx">
+          <DependentUpon>frmAdministrador.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="frmAdminUser.resx">
+          <DependentUpon>frmAdminUser.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="frmContraseña.resx">
+          <DependentUpon>frmContraseña.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="frmDireccion.resx">
+          <DependentUpon>frmDireccion.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="frmNegocio.resx">
+          <DependentUpon>frmNegocio.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="frmProducto.resx">
+          <DependentUpon>frmProducto.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="frmRegistro.resx">
+          <DependentUpon>frmRegistro.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Properties\Resources.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+            <SubType>Designer</SubType>
+        </EmbeddedResource>
+        <Compile Include="Properties\Resources.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Resources.resx</DependentUpon>
+        </Compile>
+        <None Include="packages.config" />
+        <None Include="Properties\Settings.settings">
+            <Generator>SettingsSingleFileGenerator</Generator>
+            <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+        </None>
+        <Compile Include="Properties\Settings.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Settings.settings</DependentUpon>
+            <DesignTimeSharedInput>True</DesignTimeSharedInput>
+        </Compile>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="App.config" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

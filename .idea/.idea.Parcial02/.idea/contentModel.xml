@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\refar_000\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\refar_000\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\refar_000\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial02.406714128.00" t="ExcludeRecursive" />
+    <e p="C:\Users\refar_000\Desktop\POO\C#\Parcial02" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Parcial02" t="IncludeRecursive">
+        <e p="Addnegocio.cs" t="Include" />
+        <e p="Addnegocio.Designer.cs" t="Include" />
+        <e p="Addnegocio.resx" t="Include" />
+        <e p="AddProducto.cs" t="Include" />
+        <e p="AddProducto.Designer.cs" t="Include" />
+        <e p="AddProducto.resx" t="Include" />
+        <e p="Adress.cs" t="Include" />
+        <e p="Adress.Designer.cs" t="Include" />
+        <e p="Adress.resx" t="Include" />
+        <e p="AgregarUser.cs" t="Include" />
+        <e p="AgregarUser.Designer.cs" t="Include" />
+        <e p="AgregarUser.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Conexion.cs" t="Include" />
+        <e p="DeleteNegocio.cs" t="Include" />
+        <e p="DeleteNegocio.Designer.cs" t="Include" />
+        <e p="DeleteNegocio.resx" t="Include" />
+        <e p="DeleteUser.cs" t="Include" />
+        <e p="DeleteUser.Designer.cs" t="Include" />
+        <e p="DeleteUser.resx" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="frmAdministrador.cs" t="Include" />
+        <e p="frmAdministrador.Designer.cs" t="Include" />
+        <e p="frmAdministrador.resx" t="Include" />
+        <e p="frmAdminUser.cs" t="Include" />
+        <e p="frmAdminUser.Designer.cs" t="Include" />
+        <e p="frmAdminUser.resx" t="Include" />
+        <e p="frmContraseña.cs" t="Include" />
+        <e p="frmContraseña.Designer.cs" t="Include" />
+        <e p="frmContraseña.resx" t="Include" />
+        <e p="frmDireccion.cs" t="Include" />
+        <e p="frmDireccion.Designer.cs" t="Include" />
+        <e p="frmDireccion.resx" t="Include" />
+        <e p="frmNegocio.cs" t="Include" />
+        <e p="frmNegocio.Designer.cs" t="Include" />
+        <e p="frmNegocio.resx" t="Include" />
+        <e p="frmProducto.cs" t="Include" />
+        <e p="frmProducto.Designer.cs" t="Include" />
+        <e p="frmProducto.resx" t="Include" />
+        <e p="frmRegistro.cs" t="Include" />
+        <e p="frmRegistro.Designer.cs" t="Include" />
+        <e p="frmRegistro.resx" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Parcial02.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Usuario.cs" t="Include" />
+        <e p="UsuarioBD.cs" t="Include" />
+      </e>
+      <e p="Parcial02.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

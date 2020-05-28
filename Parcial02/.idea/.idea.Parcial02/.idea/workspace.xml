@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bf5af6c-c16c-4151-89c7-5fcebfb17815" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmAdministrador.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmAdministrador.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmAdminUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmAdminUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmProducto.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmProducto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/AgregarUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/AgregarUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/DeleteUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/DeleteUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmNegocio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmContraseña.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmNegocio.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmContraseña.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Addnegocio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Addnegocio.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmRegistro.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmRegistro.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/DeleteNegocio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/DeleteNegocio.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Conexion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/AddProducto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/AddProducto.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmDireccion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/frmDireccion.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Adress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/Adress.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Parcial02/UsuarioBD.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Parcial02/ConexionBD.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmPrincipal.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmRegistro.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Conexion.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmRegistro.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Logear.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Registro.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/RegistroBD.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmContraseña.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/AgregarUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmAdminUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/AgregarUser.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/DeleteUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmAdminUser.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/DeleteUser.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmNegocio.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Addnegocio.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Addnegocio.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/DeleteNegocio.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/DeleteNegocio.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmNegocio.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/AddProducto.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmProducto.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmProducto.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/AddProducto.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Login.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Usuario.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmAdministrador.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmAdministrador.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Adress.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Adress.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/Form1.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmContraseña.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/UsuarioBD.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmDireccion.Designer.cs" />
+        <option value="$PROJECT_DIR$/Parcial02/frmDireccion.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cV0ecCxBHtrytlga5i0qOMCLEN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Parcial02" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Parcial02/Parcial02.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf5af6c-c16c-4151-89c7-5fcebfb17815" name="Default Changelist" comment="" />
+      <created>1590598558196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590598558196</updated>
+      <workItem from="1590598595833" duration="1220000" />
+      <workItem from="1590599823985" duration="15246000" />
+      <workItem from="1590618105915" duration="10262000" />
+      <workItem from="1590629023604" duration="671000" />
+      <workItem from="1590629713085" duration="8830000" />
+      <workItem from="1590640601962" duration="2436000" />
+      <workItem from="1590643633474" duration="1895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590643258733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590643258733" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590643258733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590643258733" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590643258732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590643258732" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590643258733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590643258733" />
+  </component>
+</project>
